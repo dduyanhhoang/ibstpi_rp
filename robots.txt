@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dduyanhhoang.github.io/ibstpi_rp/sitemap.xml
