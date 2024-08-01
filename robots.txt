@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.dduyanhhoang.co/ibstpi_rp/sitemap.xml
+Sitemap: https://www.dduyanhhoang.co/sitemap.xml
